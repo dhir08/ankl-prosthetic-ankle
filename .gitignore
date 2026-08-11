@@ -1,0 +1,8 @@
+.DS_Store
+~$*
+*.bak
+# SolidWorks backups and lock files
+*.SLDPRT.bak
+*.SLDASM.bak
+*.SLDDRW.bak
+swxJRNL.*
