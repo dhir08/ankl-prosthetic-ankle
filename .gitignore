@@ -6,3 +6,6 @@
 *.SLDASM.bak
 *.SLDDRW.bak
 swxJRNL.*
+.DS_Store
+*.kicad_prl
+*-backups/
